@@ -1,0 +1,165 @@
+
+
+
+
+
+.body {
+  margin-bottom:100px;
+  width: 300px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#group1 {
+  height: 100%;
+  position: relative;
+  transform-style: preserve-3d;
+
+}
+
+.background {
+  transform: translateZ(-1px) scale(2);
+  height: 250px;
+  width: 70%;
+  position: absolute;
+  top: calc(600px - 50vh);
+  background-image: url("https://i.pinimg.com/originals/12/de/1d/12de1d29f0617b1543d36b87bf8e9144.jpg");
+  padding-top: 70px;
+}
+
+.content-head {
+  font-family : inherit;
+  color: #fff;
+  position:absolute;
+  right:900px;
+  top:180px;
+	color: orange;
+
+
+}
+.main-head {
+  font-weight:800;
+  font-size :80px;
+	color: orange;
+  z-index: 1500px;
+
+}
+.sub-head {
+  font-weight:300;
+  font-size:20px;
+  letter-spacing:12px;
+  text-transform:uppercase;
+	color: orange;
+  z-index: 200px;
+
+}
+
+.Year-dead {
+	color: orange;
+  z-index: 500px;
+  margin-bottom:500px;
+
+
+}
+
+.p2 {
+   text-align: left;
+  z-index: 500px;
+
+ display: block;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+
+}
+
+ .text-mitten {
+   text-align: center;
+box-sizing: border-box;
+
+
+
+}
+.content-main{
+  height: -700px;
+  bottom: 500px;
+
+}
+
+.bakgrund  {
+  padding-right: 60px;
+    padding-left: 60px;
+    border-radius: 6px;
+    padding-top: 48px;
+padding-bottom: 48px;
+margin-bottom: 30px;
+    color: inherit;
+    background-color: #eee;
+}
+
+.h2 {
+  font-size: 50px;
+  margin-top: 20px;
+margin-bottom: 10px;
+font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+.marvel {
+
+  float: left;
+  width: 300px;
+  padding: 10px;
+  left: 20%;
+
+ }
+.marvel2 {
+
+  text-align: center;
+  width: 300px;
+  padding: 10px;
+  left:
+
+
+}
+
+.quote {
+   font-family: monospace;
+   padding-right: 15px;
+    padding-left: 0;
+    text-align: right;
+    border-right: 5px solid #eee;
+    border-left: 0;
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17.5px;
+}
+
+.marvel3 {
+  position: absolute;
+  right: 47%;
+  width: 300px;
+  padding: 10px;
+  bottom: 26.5%;
+}
+.marvel4 {
+  position: absolute;
+  right: 47%;
+  width: 300px;
+  padding: 10px;
+  bottom: 7.5%;
+}
+.chadwick2 {
+  position: absolute;
+  bottom: 35.4%;
+right: 50px;
+}
+
+.chadwick3 {
+  position: absolute;
+  bottom: 8.4%;
+right: 50px;
+
+}
